@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "QRCodesExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "QRCodesExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
